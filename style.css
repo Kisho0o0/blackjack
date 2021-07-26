@@ -1,0 +1,33 @@
+body {
+    background-color: #016f32;
+}
+h1 {
+    color: goldenrod;
+    font-style: italic;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#cardsEl , #sumEl {
+    color: white;
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+}
+button {
+    background-color: goldenrod;
+    color:#016f32 ;
+    margin-left: 490PX; 
+    border-style: none;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    
+} 
+#message {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+}
